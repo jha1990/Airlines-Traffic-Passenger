@@ -34,3 +34,5 @@ Research Ideas:
 10. Boarding Area:- The boarding gates of the flight.(Integer)
 
 11. Passenger Count:- Thenumber of passengers on the flight.(Integer)
+
+(![newplot](https://github.com/jha1990/Airlines-Traffic-Passenger/assets/106313052/b0a87f69-c1ed-4c05-9e11-f6db338bc441))
